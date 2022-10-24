@@ -31,10 +31,10 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [x] [Ethereum: Bitcoin Plus Everything](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
 - [x] [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
 - [x] [A Very Non-technical Explanation of Ethereum (aka Yet Another Ethereum Explanation)](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
-- [ ] [WTF is Ethereum?](http://whatthefuckisethereum.com/)
-- [ ] [Super Beginner's Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
-- [ ] [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
-- [ ] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+- [x] [WTF is Ethereum?](http://whatthefuckisethereum.com/)
+- [x] [Super Beginner's Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
+- [x] [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
+- [x] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 
 #### Deeper explanations of Ethereum
 - [ ] [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
