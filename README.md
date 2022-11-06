@@ -50,7 +50,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [ ] [Full Ethereum Syllabus with Detailed Summaries and Resources](https://novicedock.com/learn/cryptocurrency/ethereum)
 
 #### History Articles:
-- [ ] [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
+- [x] [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
 - [ ] [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 ### I want more in-depth details!
