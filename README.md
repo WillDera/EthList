@@ -59,8 +59,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 - [x] [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 - [x] [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [ ] [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [ ] [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
+- [x] [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
+- [x] [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
 
 #### List of protocol updates and hard-forks:
 
