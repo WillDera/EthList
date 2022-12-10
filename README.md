@@ -133,7 +133,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [x] [The Crypto-Trader’s Guide to Online Security
 ](https://medium.com/santiment/the-crypto-traders-guide-to-online-security-8eeffa6839ed
 )
-- [ ] [My guide to securing your digital life
+- [x] [My guide to securing your digital life
 ](https://medium.com/@pipermerriam/my-guide-to-solid-digital-security-fb76cb19c536#.hmz8imwe6
 )
 - [ ] [It’s Time to Get Real: Stop Relying on Third Parties to Protect You & Your Funds. You are responsible for your security.
