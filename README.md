@@ -123,11 +123,11 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ## Getting Started
 
-- [ ] [Ethereum - Getting Started - Australian Edition
+- [-] [Ethereum - Getting Started - Australian Edition
 ](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
 - [x] [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
-- [ ] [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+- [x] [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 
 #### Security:
 - [x] [The Crypto-Trader’s Guide to Online Security
