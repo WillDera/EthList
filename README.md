@@ -152,7 +152,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [x] [State of the Dapps
 ](http://dapps.ethercasts.com/
 )
-- [ ] [Ethereum Business Directory
+- [x] [Ethereum Business Directory
 ](http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings
 )
 
