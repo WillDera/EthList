@@ -187,8 +187,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 #### YouTube Channels
 - [ ] [Crypt0's News - Daily Video Blog](https://www.youtube.com/user/obham001/videos)
 - [ ] [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
-- [ ] [Decypher Media](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
-- [ ] [Ivan on Tech](https://www.youtube.com/c/IvanOnTech)
+- [x] [Decypher Media](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
+- [x] [Ivan on Tech](https://www.youtube.com/c/IvanOnTech)
 
 #### News
 - [ ] [CoinTelegraph](https://cointelegraph.com)
