@@ -165,7 +165,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [ ] [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) (tutorial)
 
 #### Newsletters
-- [ ] [Week in Ethereum
+- [x] [Week in Ethereum
 ](http://www.weekinethereum.com/
 )
 - [ ] [Dapp Daily
