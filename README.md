@@ -232,7 +232,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [x] [Possibilities of Decentralized Technology
 ](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/
 )
-- [ ] [Risks of Ethereum
+- [x] [Risks of Ethereum
 ](https://www.reddit.com/r/ethtrader/wiki/risks
 )
 - [ ] [Ethereum Community Values
