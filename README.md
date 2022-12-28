@@ -235,7 +235,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [x] [Risks of Ethereum
 ](https://www.reddit.com/r/ethtrader/wiki/risks
 )
-- [ ] [Ethereum Community Values
+- [x] [Ethereum Community Values
 ](https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/
 )
 - [ ] [Growth of the Ethereum Ecosystem
